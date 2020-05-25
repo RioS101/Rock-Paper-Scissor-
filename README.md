@@ -9,8 +9,3 @@ Rule: scissor crop paper, paper wraps rock and rock breaks scissor. Choose one a
 * Xcode 10
 * Swift 4.0
 
-## Screenshots:
-![start](Screenshots/1 - start.png)
-![won](Screenshots/2 - won.png)
-![draw](Screenshots/3 - draw.png)
-![lost](Screenshots/4 - lost.png)
